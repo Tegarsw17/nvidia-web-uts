@@ -28,9 +28,6 @@
                         <a class="nav-link <?= ($nav == 'dashboard' ? 'active' : ''); ?>" aria-current="page" href="/">Dashboard</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link <?= ($nav == 'profile' ? 'active' : ''); ?>" href="/profile">Profile</a>
-                    </li>
-                    <li class="nav-item">
                         <a class="nav-link <?= ($nav == 'product' ? 'active' : ''); ?>" href="/product">Product</a>
                     </li>
                     <li class="nav-item">
@@ -38,6 +35,9 @@
                     </li>
                     <li class="nav-item">
                         <a class="nav-link <?= ($nav == 'techno' ? 'active' : ''); ?>" href="/techno">Technologies</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link <?= ($nav == 'profile' ? 'active' : ''); ?>" href="/profile">Profile</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link <?= ($nav == 'contact' ? 'active' : ''); ?>" href="/contact">Contact</a>

@@ -50,7 +50,7 @@
                     <input type="text" class="form-control" id="inputAddress" placeholder="Service VGA">
                 </div>
                 <div class="col-12">
-                    <button type="submit" class="btn btn-primary" disabled>Sign in</button>
+                    <button type="submit" class="btn btn-primary" disabled>Report</button>
                 </div>
             </form>
         </div>
