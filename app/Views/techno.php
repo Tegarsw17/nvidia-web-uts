@@ -5,24 +5,15 @@
 <div class="container">
     <div class="row">
         <div class="col">
-            <table class="table">
-                <thead>
-                    <tr>
-                        <th scope="col">#</th>
-                        <th scope="col">First</th>
-                        <th scope="col">Last</th>
-                        <th scope="col">Handle</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <th scope="row">1</th>
-                        <td id="content"></td>
-                        <td>Otto</td>
-                        <td>@mdo</td>
-                    </tr>
-                </tbody>
-            </table>
+            <h1 class="my-4">Technologise</h1>
+            <div class="card" style="width: 18rem;">
+                <img src="https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/technologies/battery-boost/battery-boost-og-1200x627.jpg" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">BatteryBoost</h5>
+                    <p class="card-text">An ultra-efficient mode that delivers the same great 30+ FPS experience, but with up to 2x longer battery life while gaming.</p>
+                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                </div>
+            </div>
         </div>
     </div>
 </div>
